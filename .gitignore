@@ -1,0 +1,14 @@
+HostSim/build/
+build/
+cmake-build-*/
+.vscode/
+.idea/
+*.o
+*.elf
+*.map
+*.bin
+*.hex
+*.axf
+.DS_Store
+
+HostSim/cmake-build-debug/
